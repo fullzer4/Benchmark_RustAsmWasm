@@ -21,13 +21,3 @@ This repository contains benchmarking code and results for comparing the perform
 ## Introduction
 
 In the world of modern software development, understanding the performance characteristics of different implementation choices is crucial. This repository aims to provide a comparative analysis of Rust-ASM, Rust-WASM, and x86-64 ASM, focusing on their binary size, memory consumption, execution cycles, and execution speed.
-
-## Getting Started
-
-To get started with benchmarking, follow these steps:
-
-1. **Clone the Repository:** Clone this repository to your local machine.
-
-   ```shell
-   git clone https://github.com/your-username/Benchmark_RustAsmWasm.git
-   ```
